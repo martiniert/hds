@@ -1,0 +1,5 @@
+{
+    "hotspot": "HOTSPOT_ADDRESS_HERE",
+    "discord_webhook": "DISCORD_WEBHOOK_HERE",
+    "bobcat_local_endpoint": "OPTIONAL__BOBCAT_MINER_ENDPOINT"
+}
